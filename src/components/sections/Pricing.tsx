@@ -12,7 +12,7 @@ import { SITE } from "@/config/site";
 const plans = [
   {
     name: "Starter",
-    price: "₹8,999",
+    price: "₹4,999",
     period: "/month",
     description: "Perfect for new creators ready to level up their content quality.",
     badge: null,
@@ -31,7 +31,7 @@ const plans = [
   },
   {
     name: "Pro",
-    price: "₹18,999",
+    price: "14,999",
     period: "/month",
     description: "For serious creators and brands who need consistent, premium output.",
     badge: "Most Popular",
@@ -45,7 +45,7 @@ const plans = [
       "Sound design & mixing",
       "Unlimited revisions",
       "3-day delivery",
-      "4K export ready",
+      "1080p export ready",
       "Priority Slack/WhatsApp support",
       "Monthly strategy call",
     ],
@@ -53,7 +53,7 @@ const plans = [
   },
   {
     name: "Premium",
-    price: "₹34,999",
+    price: "34,999",
     period: "/month",
     description: "Full-service video production for brands and high-volume creators.",
     badge: "Best Value",

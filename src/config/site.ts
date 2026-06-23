@@ -63,7 +63,7 @@ export const SHOWREEL_STATS = [
 // ── Films (landscape 16:9 cards) ──────────────────────────────────
 export const FILMS = [
   {
-    id: "D-YX2pyqnto",           // ← replace with your YouTube video ID
+    id: "rYycnCMUdKg",           // ← replace with your YouTube video ID
     title: "Cinematic Brand Reel",
     client: "FashionLabel Co.",
     type: "Brand Film",
@@ -77,7 +77,7 @@ export const FILMS = [
     views: "850K views",
   },
   {
-    id: "hVTiPP5M2FI",
+    id: "diIqlv7lLEE",
     title: "Travel Documentary",
     client: "Self-produced",
     type: "Short Film",
@@ -88,30 +88,30 @@ export const FILMS = [
 // ── Reels (portrait 9:16 cards — use YouTube Shorts IDs) ──────────
 export const REELS = [
   {
-    id: "D-YX2pyqnto",           // ← replace with your Shorts / Reel ID
-    title: "Product Launch Reel",
-    client: "StartupXYZ",
+    id: "FkgPGw02XAA ",           // ← replace with your Shorts / Reel ID
+    title: "Dr Reel",
+    client: "Dr",
     type: "Reel",
     views: "2.1M views",
   },
   {
-    id: "oc_Mws9VznQ",
-    title: "Fashion Edit",
-    client: "StyleBrand",
+    id: "UEwi0VnW9PU",
+    title: "Dr Edit",
+    client: "Doctor",
     type: "Reel",
     views: "980K views",
   },
   {
-    id: "hVTiPP5M2FI",
-    title: "Event Highlights",
+    id: "jPUkpK4Kj6U",
+    title: "Motion Graphics Reel  ",
     client: "EventCo.",
     type: "Reel",
     views: "430K views",
   },
   {
-    id: "D-YX2pyqnto",
-    title: "Travel Montage",
-    client: "TourAgency",
+    id: "zONgHFvJWY4",
+    title: "Podcast EDit",
+    client: "Self",
     type: "Reel",
     views: "1.6M views",
   },
